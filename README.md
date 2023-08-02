@@ -10,7 +10,8 @@ For emotionally damaged people especially from a romantic relationship, how they
 - Bottles can technically be seen/picked unlimitedly even when it has been picked.
 - Each drifting bottle can have multiple chat sessions and each session is private from the other.
 - Users can retrieve the bottles they threw and it would be archived. Also, bottles can be deleted by users.
-- Users should be able to keep SHIT private, do not show actual info.  
+- Users should be able to keep SHIT private, do not show actual info.
+- Users could throw the bottles they collected back to the ocean.
 - More coming up
 
 For development
