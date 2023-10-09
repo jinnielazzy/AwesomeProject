@@ -1,4 +1,4 @@
-# DiamondDogs
+# AwesomeProject
 
 ## I wanted to heal people who got hurt
 
