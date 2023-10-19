@@ -11,7 +11,8 @@
     "prettier",
     "airbnb",
     "airbnb-typescript",
-    "airbnb/hooks"
+    "airbnb/hooks",
+    "universe/native"
   ],
   "parser": "@typescript-eslint/parser",
   "parserOptions": {
@@ -27,6 +28,8 @@
     "arrow-body-style": "error",
     "no-use-before-define": "off",
     "@typescript-eslint/no-use-before-define": "off",
+    "@typescript-eslint/consistent-type-imports": "error",
+    "import/no-duplicates": ["error", { "considerQueryString": true }],
     // react
     "react/react-in-jsx-scope": "off",
     "react/self-closing-comp": [
